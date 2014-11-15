@@ -1,0 +1,147 @@
+/*######################################*/
+/*Colors for the template */
+/*######################################*/
+
+body {
+    background-color: white;
+}
+
+#home {
+  /* IE10 Consumer Preview */ 
+  background-image: -ms-radial-gradient(center bottom, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* Mozilla Firefox */ 
+  background-image: -moz-radial-gradient(center bottom, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* Opera */ 
+  background-image: -o-radial-gradient(center bottom, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* Webkit (Safari/Chrome 10) */ 
+  background-image: -webkit-gradient(radial, center bottom, 0, center bottom, 415, color-stop(0, #65EAFD), color-stop(1, #299CC7));
+
+  /* Webkit (Chrome 11+) */ 
+  background-image: -webkit-radial-gradient(center bottom, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* W3C Markup, IE10 Release Preview */ 
+  background-image: radial-gradient(circle farthest-side at center bottom, #65EAFD 0%, #299CC7 100%);
+}
+
+#footer {
+  /* IE10 Consumer Preview */ 
+  background-image: -ms-radial-gradient(center top, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* Mozilla Firefox */ 
+  background-image: -moz-radial-gradient(center top, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* Opera */ 
+  background-image: -o-radial-gradient(center top, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* Webkit (Safari/Chrome 10) */ 
+  background-image: -webkit-gradient(radial, center top, 0, center bottom, 415, color-stop(0, #65EAFD), color-stop(1, #299CC7));
+
+  /* Webkit (Chrome 11+) */ 
+  background-image: -webkit-radial-gradient(center top, circle farthest-side, #65EAFD 0%, #299CC7 100%);
+
+  /* W3C Markup, IE10 Release Preview */ 
+  background-image: radial-gradient(circle farthest-side at center top, #65EAFD 0%, #299CC7 100%);
+}
+
+.cta1 {
+    background-color:#1080B0;
+}
+
+
+
+
+
+.subscribe-submit, 
+.subscribe-submit:active, 
+.spinner > div,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,
+.cta2 {
+    background-color: #1080B0;
+}
+
+
+
+
+
+
+#fb_icon:hover,
+#tw_icon:hover, 
+#in_icon:hover, 
+#g_icon:hover, 
+#pin_icon:hover, 
+#fli_icon:hover,
+.services_icon {
+    fill:#299CC7;
+}
+
+
+
+
+
+#fb_icon, 
+#tw_icon, 
+#in_icon, 
+#g_icon, 
+#pin_icon, 
+#fli_icon {
+    fill: rgba(255,255,255,0.5);
+}
+
+
+
+
+
+#preview {
+    background-color:#fff;
+    color: #299CC7;
+}
+
+h3 {
+    color:black;
+}
+
+h4 {
+    color:#66CC66;
+}
+
+.feature_icon {
+    fill:#d8d8d8;
+}
+
+.arrow_up,
+.arrow_down {
+    fill:#f0f0f0;
+}
+
+.arrow_down:hover,
+.arrow_up:hover {
+    fill:#dddddd;
+}
+
+#features_3, .arrows_box_bg {
+    background-color:#fff;
+}
+
+.owl-theme .owl-controls .owl-page span{
+	background-color: #d8d8d8;
+}
+
+
+
+
+
+#blog_header{
+    background-color: #1f9bc9;
+}
+
+#pagination a.active h3, .dev_blog_post a, .comment a  {
+    color:#a7cb00
+}
+
+.comment {
+    background-color: #fff;
+}
